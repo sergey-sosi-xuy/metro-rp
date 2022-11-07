@@ -1,8 +1,8 @@
 {
     "clientVersionCode": 100,
     "gameFilesVersionCode": 100,
-    "URL_GAME_FILES" : "https://api.ru-state.online/test/game.zip",
-    "URL_GAME_FILES_UPD" : "https://dl.ru-state.online/gamefiles/files_upd.zip",
+    "URL_GAME_FILES" : "http://a0739231.xsph.ru/game.zip",
+    "URL_GAME_FILES_UPD" : "http://a0739231.xsph.ru/files_upd.zip",
     "URL_VK": "https://vk.com/metroroleplayy",
     "URL_DISCORD": "https://discord.gg/VEKTd6TzwM",
     "URL_YOUTUBE": "https://t.me/MetroRolePlayy",
